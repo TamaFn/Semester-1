@@ -1,0 +1,12 @@
+Link Praktikum Daspro
+
+https://github.com/AlproITS/DasarPemrograman/wiki/Modul-0:-Pengenalan-Pemrograman
+
+https://docs.google.com/document/d/1p553nDjqlhxY9r9J22k_NxH5u2mhXgbyueUpkjubE0A/edit
+https://docs.google.com/document/d/15aK0dIgNGxVEQ6D3LuxBdD8KU9jhJnjk5Uw2CqaIx0I/edit#heading=h.870murh4ppqq
+https://docs.google.com/document/d/1YUW1cJKHcj2ybYbIx-A_CGIVIC5Ygf7BaLQNMoeNB_Q/edit
+https://docs.google.com/document/d/1JUyJw_T1nmd8wwhjgqSuTCXaHQvp-v5iEcfR0ygeNhI/edit
+https://docs.google.com/document/d/17VTTSZX6uvUUT4yGfAbYoYAwICxJqpT4cI4uDy4LDgs/edit
+
+http://www.java2s.com/Tutorial/Cpp/0140__Function/Passingintbyvalue.htm
+
